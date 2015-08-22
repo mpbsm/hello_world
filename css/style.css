@@ -24,7 +24,9 @@ footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 40px 0; width:
 
 #link1 { 
   color:green;
+  text-decoration:none;
 }
 #link2 { 
-  color:violet;
+  color:red;
+  text-decoration:none;
 }
